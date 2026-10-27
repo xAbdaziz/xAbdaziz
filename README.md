@@ -19,7 +19,9 @@ I'm a developer based in **Jeddah, Saudi Arabia**, with a B.Sc. in Computer Info
 
 I work across the full development lifecycle, from building user interfaces and backend services to deploying and operating applications on Kubernetes. I also contribute to Android custom ROM development and device bring-up.
 
-Previously a **Web Development Intern at StartHub** · **AWS Certified Cloud Practitioner**
+Previously a **Web Development Intern at StartHub**.
+
+ **AWS Certified Cloud Practitioner**
 
 ## Featured projects
 
